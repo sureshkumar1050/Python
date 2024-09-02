@@ -1,0 +1,1 @@
+Objective: To gain insights into the characters, relationships, and plotlines of the popular TV show Friends by analyzing a dataset containing information about the show's episodes, characters, and their interactions.
